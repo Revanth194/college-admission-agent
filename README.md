@@ -80,19 +80,28 @@ A College Admission Agent built on IBM Watsonx.ai using RAG retrieves relevant a
 
 ---
 
-## 🖼️ Screenshots
+## 📷 Screenshots
 
-### 🔹 Agent Setup  
-![setup](setup.jpg)
+### 🧭 Instructions Page  
+![Instructions](instructions.png)
 
-### 🔹 Agent Instructions  
-![instructions](instructions.jpg)
+### 🛠️ Deployment Space  
+![Deployment Space](deployment%20space.png)
 
-### 🔹 Sample Questions  
-![questions](questions.jpg)
+### ⚙️ Creating Deployment Space  
+![Creating Deployment Space](creating%20deployment%20space.png)
 
-### 🔹 Agent Preview & Deployment  
-![preview](preview.jpg)
+### 🔌 API References  
+![API References](API%20References.png)
+
+### 📚 Resource List  
+![Resource List](Resource%20list.png)
+
+### 🖥️ Preview (Chatbot)  
+![Preview](preview.png)
+
+### 🖥️ Preview Alternate  
+![Preview1](preview1.png)
 
 ---
 
