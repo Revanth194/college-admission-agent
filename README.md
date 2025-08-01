@@ -85,11 +85,6 @@ A College Admission Agent built on IBM Watsonx.ai using RAG retrieves relevant a
 ### 🧭 Instructions Page  
 ![Instructions](instructions.png)
 
-### 🛠️ Deployment Space  
-![Deployment Space](deployment%20space.png)
-
-### ⚙️ Creating Deployment Space  
-![Creating Deployment Space](creating%20deployment%20space.png)
 
 ### 🔌 API References  
 ![API References](API%20References.png)
@@ -141,5 +136,5 @@ This project is licensed under the [MIT License](LICENSE)
 
 ---
 
-> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Your Name**
+> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 
 
